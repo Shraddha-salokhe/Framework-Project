@@ -11,7 +11,7 @@ reportProductName varchar(30),
 reportUserEmail varchar(30),
 reportDate varchar(30),
 reportPrice int(20));
-insert into purchase_report values(1,"Strickrer","bhanuprasad774@gmail.com","18-10-2000",399);
+insert into purchase_report values(1,"Strickrer","shraddha.salokhe25@gmail.com","18-10-2000",399);
 select * from purchase_report;
 
 
@@ -22,7 +22,7 @@ create table  user(userId int(10),
 	 userAge int(10),
 	 userGender varchar(10),
 	 userAddress varchar(100));
-insert into user values(1,"bhanu","bhanuprasad774@gmail.com",22,"Female","D Honnur");
+insert into user values(1,"bhanu","shraddha.salokhe25@gmail.com",22,"Female","D Honnur");
 select * from user;
 
 
