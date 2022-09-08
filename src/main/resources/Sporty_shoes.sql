@@ -22,7 +22,7 @@ create table  user(userId int(10),
 	 userAge int(10),
 	 userGender varchar(10),
 	 userAddress varchar(100));
-insert into user values(1,"bhanu","shraddha.salokhe25@gmail.com",22,"Female","D Honnur");
+insert into user values(1,"shraddha","shraddha.salokhe25@gmail.com",22,"Female","D Honnur");
 select * from user;
 
 
